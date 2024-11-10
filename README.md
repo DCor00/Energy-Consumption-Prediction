@@ -32,3 +32,6 @@ The project aims to analyze energy consumption data and develop models capable o
 GREEND is an energy dataset containing power measurements collected from multiple households in Austria and Italy. It provides detailed energy profiles on a per device basis with a sampling rate of 1 Hz.
 [GREEND Dataset](https://sourceforge.net/projects/greend/)
 
+## License 📜
+See the [LICENSE](LICENSE) file for more details.
+
